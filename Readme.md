@@ -1,3 +1,3 @@
-# :star: Documentation of my learning path to reach the AWS cloud practitioner certificate :star:
+# :star: My learning path for the AWS cloud practitioner certificate :star:
 
 
