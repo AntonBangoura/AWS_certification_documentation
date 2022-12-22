@@ -2,3 +2,4 @@
 
 
 ### :fr: You will find in each file a detailed description of each aws product in French and English :fr:
+For Russian translation contact me at
