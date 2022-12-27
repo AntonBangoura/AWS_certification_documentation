@@ -9,7 +9,7 @@ Permettez aux clients de se connecter directement, ou par l'intermédiaire de fo
 #### Gérer les identités B2B
 Utilisez une variété d'options mutualisées qui fournissent différents niveaux de politique et d'isolation des locataires pour votre entreprise.
 
-=#### Authentification sécurisée de machine à machine
+#### Authentification sécurisée de machine à machine
 Développez des applications modernes, sécurisées et basées sur des microservices, et connectez plus facilement votre application aux ressources dorsales et aux services Web.
 
 #### Obtenir un accès basé sur des rôles aux ressources AWS
